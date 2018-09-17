@@ -32,5 +32,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 **所有盧大中的所做都會記錄在上面**
 
-_允許任何人提出分支合併_，**盧大中**本如除外，不再此規範內
+_允許任何人提出分支合併_，**盧大中**本人除外，不再此規範內
 
