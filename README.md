@@ -28,10 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+###盧大中的事件紀錄
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Noyryk/slite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**所有盧大中的所做都會記錄在上面**
 
-### Support or Contact
+_允許任何人提出分支合併_，**盧大中**本如除外，不再此規範內
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
