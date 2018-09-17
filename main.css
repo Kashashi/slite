@@ -1,9 +1,9 @@
 .photo{
 margin:5px 5px;
 background-color:#FFECC9;
-width:150px;
-height:400px;
+width:160px;
+height:200px;
 text-align:center;
-line-height:400px;
-float:right;
+line-height:normal;
+float:left;
 }
