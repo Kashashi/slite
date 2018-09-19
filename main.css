@@ -1,10 +1,10 @@
 #sitebody{
 width:100%;
 font-size:24px;
-background-color:#000000;
+background-color:#FFFFFF;
 }
 #header{
-background-color:#900404;
+background-color:#FFFFFF;
 height:80px;
 line-height:80px;
 }
@@ -16,7 +16,7 @@ text-align:right;
 }
 #sidebar_left{
 margin:1px 1px;
-background-color:#FFECC9;
+background-color:#FFFFFF;
 width:150px;
 height:400px;
 text-align:center;
@@ -25,7 +25,7 @@ float:left;
 }
 #sidebar_right{
 margin:1px 1px;
-background-color:#FFECC9;
+background-color:#FFFFFF;
 width:150px;
 height:400px;
 text-align:center;
@@ -35,13 +35,13 @@ float:right;
 #content{
 margin:-28px 170px;
 height:700px;
-background-color:#F2FFF2;
+background-color:#FFFFFF;
 text-align:center;
 line-height:normal;
 }
 #footer{
 clear:both;
-background-color:#FFD4D4;
+background-color:#FFFFFF;
 height:auto;
 text-align:center;
 line-height:normal;
