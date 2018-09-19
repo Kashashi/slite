@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Noyryk/slite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-#盧大中的事件紀錄
+##盧大中的事件紀錄
 
 **所有盧大中的所做都會記錄在上面**
 
